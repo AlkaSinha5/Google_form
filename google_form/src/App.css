@@ -1,0 +1,80 @@
+*{
+  font-size: 18px;
+}
+.App{
+  background-color: rgb(245, 239, 252);
+  padding-top: 5px;
+}
+.container{
+background-color: rgb(253, 252, 252);
+border: 1px solid rgb(208, 209, 209);
+margin-top: 15px;
+padding: 20px;
+border-radius: 5px;
+width: 55%;
+
+/* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+}
+#shortAnswer{
+  border: none;
+  border-bottom: 2px solid rgb(208, 209, 209)
+}
+#dropdown{
+  width: 30%;
+}
+.form-check{
+  padding: 10px;
+  
+}
+.form-check-label{
+  padding-left: 10px;
+}
+.space-between{
+  padding: 0px 60px 0 60px;
+}
+
+.worst{
+  padding-top:-60px;
+}
+.fan{
+  background-color: rgb(237, 239, 240);
+  margin-bottom: 10px;
+  padding: 10px 40px 10px 7px;
+}
+.switch-accounts {
+  color: rgb(130, 174, 245);
+
+}
+.p>p{
+  font-size:18px;
+}
+.top{
+  border-top: 13px solid rgb(104, 46, 248);
+
+  border-radius: 8px;
+  padding-bottom: 0px;
+}
+.red{
+  color: rgb(234, 6, 6);
+  padding-top: 8px;
+  
+}
+.boder{
+  border-bottom: 1px solid rgb(210, 212, 213);
+
+}
+.color{
+  background-color: rgb(77, 7, 174);
+  color: #fff;
+  padding: 0 24px;
+  border-radius: 8px;
+  margin-left: 23%;
+  margin-top: 12px;
+  cursor: pointer;
+
+  font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .25px;
+    line-height: 36px;
+}
